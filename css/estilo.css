@@ -1,0 +1,101 @@
+/*Entradas gerais*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+
+	font-size: 16px;
+	font-family: Fantasy;
+ 	background-color: #CEE3F6;	
+}
+
+a {
+	text-decoration: none;
+	padding: 7px 12px;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: Lightblue;
+	background-color: black;
+}
+
+a:active {
+	color: lightblue;
+}
+
+/*Id*/
+
+#navegação{
+	background-color: #FFF;
+	height: 40px;
+	position: fixed;
+	width:	100% ;
+	top: 0;
+}
+
+#area {
+	width: 720px;
+	margin: 0px auto;
+	}
+
+#logo {
+	float: left;
+}
+
+#menu {
+	float: right;
+	height: 40px;
+	margin: 10px;
+	font-size: 17px;
+
+}
+
+#area-principal {
+	font-family: Courier New, Monaco, Monospace;
+	width: 720px;
+	margin: 55px auto 10px auto;
+	
+}
+
+#postagem {
+	background-color: white;
+	padding: 8px;
+	margin: 15px;
+}
+
+/*Classes*/
+
+.azul {
+	color: lightblue;
+}
+
+.data-postagem {
+	font-size: 12px;
+	border-bottom: 1px solid lightblue;
+	display: block;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.imagens {
+	float: left;
+	margin: 0 10px 5px 0;
+	height: 100px;
+	width: 150px;
+}
+
+.autor {
+	border-left: 10px solid lightblue;
+	margin-top: 10px;
+	display: block;
+}
