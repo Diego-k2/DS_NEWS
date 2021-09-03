@@ -1,2 +1,4 @@
-# Noticias.github.io
-Meu primeiro site criado utilizando apenas CSS E HTML 
+### DS NEWS - Blog de Noticias :newspaper_roll:
+
+Site utilizando HTML E CSS
+
